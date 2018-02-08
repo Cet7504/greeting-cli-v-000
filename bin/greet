@@ -2,5 +2,5 @@
 require_relative "../lib/greeting.rb"
 
 puts "Hi! I'm HAL, whats your name?"
-puts "Please enter name so we can greet you personally."
+
 greeting(name)
